@@ -11,7 +11,7 @@ export default () => (
       <nav className="nav">
         <ul>
           <li><a href="base-index.html">TOP</a></li>
-          <li><a href="https://adrian-blog.com/">BLOG</a></li>
+          <li><a href="/">BLOG</a></li>
         </ul>
       </nav>
     </div>
